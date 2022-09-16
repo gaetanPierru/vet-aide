@@ -1,0 +1,67 @@
+/* classe  */
+.connectform {
+  border-style: solid;
+  border-width: 1px;
+  padding : 40px;
+  position: relative;
+  width: 450px;
+  height: 600px;
+  text-align: center;
+  position: relative;
+  left: 35%;
+}
+
+.fontsize {
+  font-size: 15 px;
+  text-align: left;
+  display: block;
+}
+.title {
+  font-size: 35px;
+  margin-top: 0px;
+}
+.test {
+  margin-top: 100px;
+  margin-left: 35%;
+}
+.btn {
+  margin-top: 15px;
+  margin-bottom: 25px;
+  padding-bottom: 0px;
+  padding-left: 90px;
+  padding-right: 90px;
+}
+/* div */
+#username {
+  margin-bottom: 20px;
+  padding-right: 100px;
+}
+#password {
+  padding-left: 100px;
+}
+.create {
+  white-space: pre-line;
+}
+.newsletters {
+  font-size: 12px;
+}
+#select {
+  margin-bottom: 20px;
+}
+
+.in
+{
+	/* largeur */
+	width:900px;
+	margin:auto;
+}
+
+ul
+{
+	/* position de la liste  */
+ list-style-position:inside;	
+}
+
+p {
+  text-align: center;
+}
