@@ -19,4 +19,4 @@ Critères de performance :
 Le livrable doit être fonctionnel
 
 durée :
-1 semaine ett demi
+1 semaine et demi
